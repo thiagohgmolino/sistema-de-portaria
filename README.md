@@ -11,7 +11,19 @@ Sistema de controle de acesso e registro de visitantes para o condomínio Sol do
 
 ## Como usar
 
-Em breve.
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/thiagohgmolino/sistema-de-portaria.git
+   ```
+2. Acesse a pasta do projeto:
+   ```bash
+   cd sistema-de-portaria
+   ```
+3. Siga as instruções de configuração (em breve).
+
+## Contribuindo
+
+Abra uma _issue_ ou envie um _pull request_ com sugestões de melhoria.
 
 ## Licença
 
